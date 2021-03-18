@@ -1,0 +1,10 @@
+a{
+    text-decoration: none;
+    
+}
+td:hover{
+    background-color: aqua;
+}
+td{
+    cursor:grab;
+}
